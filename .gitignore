@@ -1,0 +1,11 @@
+__pycache__
+  .vscode
+.bash_history
+.cache
+.local
+.pylint.d
+.python_history
+credentials.json
+token.json
+mywiki.py
+sheets.py
